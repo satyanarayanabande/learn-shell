@@ -26,4 +26,4 @@ else
     echo "mysql client installation is success"
 fi
 
-echo "Still proceeded..."
+echo "Still proceeded...."
